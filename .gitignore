@@ -1,0 +1,7 @@
+gradle/
+build/
+history/
+out/
+target/
+.gradle/
+.idea/
