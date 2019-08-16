@@ -1,4 +1,4 @@
-# Serenity BDD Handson
+# Serenity BDD Hands On
 Automation testing repo build using Serenity BDD with Cucumber.
 
 ## Getting started
